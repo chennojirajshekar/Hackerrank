@@ -23,7 +23,7 @@ Welcome to the **HackerRank Solutions Repository**! This repo contains solutions
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/hackerrank-solutions.git
+   git clone https://github.com/chennojirajshekar/Hackerrank.git
 2. **Browse the folders**  
    Navigate through the different directories based on the practice sets and technical stacks you're interested in.
 
